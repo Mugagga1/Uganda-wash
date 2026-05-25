@@ -1,0 +1,8 @@
+{
+  "name": "Remix: UgaWash",
+  "description": "Book verified local car detailing services in Uganda using your location and secure mobile money payments with ability to locate near by gas stations and mechanic place and shop,a google maps ,fuel prices around,car dealers around and there prices,car control features,",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
